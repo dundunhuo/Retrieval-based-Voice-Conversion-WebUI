@@ -229,7 +229,7 @@ class Predictor:
                         pass
             if os.path.exists(path_other):
                 os.system(
-                    "ffmpeg -i %s -vn %s -q:a 2 -y" % (path_other, opt_path_other)
+                    'ffmpeg -i "%s" -vn "%s" -q:a 2 -y' % (path_other, opt_path_other)
                 )
                 if os.path.exists(opt_path_other):
                     try:
