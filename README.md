@@ -211,4 +211,4 @@ source /opt/intel/oneapi/setvars.sh
 <a href="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/graphs/contributors" target="_blank">
   <img src="https://contrib.rocks/image?repo=RVC-Project/Retrieval-based-Voice-Conversion-WebUI" />
 </a>
-ddh
+版本：ddhV1
