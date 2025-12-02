@@ -212,4 +212,6 @@ source /opt/intel/oneapi/setvars.sh
   <img src="https://contrib.rocks/image?repo=RVC-Project/Retrieval-based-Voice-Conversion-WebUI" />
 </a>
 
-版本：main 
+版本：ddhV1 2025年11月28日
+
+测试：Update Project
