@@ -216,7 +216,7 @@ source /opt/intel/oneapi/setvars.sh
 
 测试：Update Project
 
-测试Fetch：ddhv1 2025年12月3日 第二次测试Fetch，我们同时修改219行代码。我是PyCharm 2025.2
+测试Fetch：ddhv1 2025年12月3日 第二次测试Fetch，我们同时修改219行代码。我是girhub.dev
 
 测试：ddhv1 Merge incoming changes into the current branch <br><br>2025年12月3日 
 
